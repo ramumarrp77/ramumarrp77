@@ -11,12 +11,27 @@ Welcome to my GitHub profile! I am a passionate data engineer with over 3.5 year
 - 🤝 I’m open to collaborating on **data engineering**, **AI**, and **research projects**.
 - 💡 I'm passionate about finding innovative solutions to data challenges and constantly improving my skills in this rapidly evolving field.
 
+## 🚀 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ramumarrp77&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramumarrp77&layout=compact&theme=radical&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -27,7 +42,6 @@ Welcome to my GitHub profile! I am a passionate data engineer with over 3.5 year
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white)
@@ -44,7 +58,6 @@ Welcome to my GitHub profile! I am a passionate data engineer with over 3.5 year
 ![Presto](https://img.shields.io/badge/Presto-003C74?style=flat-square&logo=prestodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
