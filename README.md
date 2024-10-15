@@ -11,20 +11,18 @@ Welcome to my GitHub profile! I am a passionate data engineer with over 3.5 year
 - 🤝 I’m open to collaborating on **data engineering**, **AI**, and **research projects**.
 - 💡 I'm passionate about finding innovative solutions to data challenges and constantly improving my skills in this rapidly evolving field.
 
-## 🚀 GitHub Stats
+## 🚀 Key Projects
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ramumarrp77&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramumarrp77&layout=compact&theme=radical&langs_count=6" />
-    </td>
-  </tr>
-</table>
+Here are some of my key projects hosted on GitHub:
 
+- [🔗 Food Inspections BI Project](https://github.com/ramumarrp77/Chicago-Dallas-Food-Inspection-Data-Processing)
+  **Description**: An end-to-end Business Intelligence project analyzing food inspection data from Chicago and Dallas, involving data profiling, dimensional modeling, and visualizations using Power BI and Tableau.
 
+- [🔗 IOWA Liquor Sales - Data Integration and BI Project](https://github.com/ramumarrp77/Designing-data-architecutre-and-business-intelligence-for-iowa-liquor-sales)
+
+- [🔗 GAIA Dataset OPENAI Validation - Streamlit Application] ( https://github.com/ramumarrp77/gaia-openai-validation )
+
+- [🔗 Automating PDF Extraction using PyMuPDF and Unstructured API and validate responses from Open AI - web application ] (https://github.com/ramumarrp77/automating-text-extraction-and-client-facing-application) 
 
 
 ## Technical Skills
