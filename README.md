@@ -20,9 +20,9 @@ Here are some of my key projects hosted on GitHub:
 
 - [🔗 IOWA Liquor Sales - Data Integration and BI Project](https://github.com/ramumarrp77/Designing-data-architecutre-and-business-intelligence-for-iowa-liquor-sales)
 
-- [🔗 GAIA Dataset OPENAI Validation - Streamlit Application] ( https://github.com/ramumarrp77/gaia-openai-validation )
+- [🔗 GAIA Dataset OPENAI Validation - Streamlit Application](https://github.com/ramumarrp77/gaia-openai-validation)
 
-- [🔗 Automating PDF Extraction using PyMuPDF and Unstructured API and validate responses from Open AI - web application ] (https://github.com/ramumarrp77/automating-text-extraction-and-client-facing-application) 
+- [🔗 Automating PDF Extraction using PyMuPDF and Unstructured API and validate responses from Open AI - web application ](https://github.com/ramumarrp77/automating-text-extraction-and-client-facing-application) 
 
 
 ## Technical Skills
