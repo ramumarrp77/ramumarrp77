@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate data engineer with over **3.5+ y
 
 Here are some of my key projects hosted on GitHub:
 
-### 🤖 GenAI & AI Projects
+### 🤖 GenAI Projects
 * **[GenAI with LLMs - Course Lab Materials](https://github.com/ramumarrp77/GenAIwLLMFall2025)** - Teaching Assistant lab sessions covering LangChain, LangGraph, Snowflake Cortex, RAG, and multi-agent systems
 * **[EventLens](https://github.com/ramumarrp77/EventLens)** - AI-powered event discovery platform using LLMs and modern data engineering
 * **[Open Source Python Library Coding Agent](https://github.com/ramumarrp77/open-source-python-lib-coding-agent)** - Intelligent coding agent for automated Python library development
